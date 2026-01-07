@@ -1,0 +1,94 @@
+- class_name: 关于页
+  subtitle: 生活明朗，万物可爱✨
+  avatarImg: /img/avatar.png
+  avatarSkills:
+    left:
+      - 🤖️ 数码科技爱好者
+      - 🔍 分享与热心帮助
+      - 🏠 智能家居小能手
+      - 🔨 设计开发一条龙
+    right:
+      - 专修交互与设计 🤝
+      - 脚踏实地行动派 🏃
+      - 团队小组发动机 🧱
+      - 话不多人不恨 😺
+  name: 刘力源
+  description: 是一名 学生、独立开发者、博主
+  aboutsiteTips:
+    tips: 追求
+    title1: 源于
+    title2: 热爱而去 感受
+    word:
+      - 学习
+      - 生活
+      - 程序
+      - 体验
+  helloAbout: Hello World！
+  skillsTips:
+    tips: 技能
+    title: 开启创造力
+  careers:
+    tips: 生涯
+    title: 无限进步
+    list:
+      - desc: EDU,计算机科学与技术专业
+        color: "#357ef5"
+      - desc: EDU,计算机科学与技术专业
+        color: "#357ef5"
+    img: https://bu.dusays.com/2023/04/21/644287166329b.png
+  statistic:
+    link: /archives
+    text: 文章隧道
+    cover: https://bu.dusays.com/2023/05/01/644f4b037b930.jpg
+  map:
+    title: 我现在住在
+    StrengthenTitle: 中国，徐州市
+    background: /img/map.png
+    backgroundDark: /img/map.png
+  selfInfo:
+    selfInfoTips1: 生于
+    selfInfoContentYear: 2005
+    selfInfoTips2: 专业
+    selfInfoContent2: 计算机科学与技术
+    selfInfoTips3: 现在职业
+    selfInfoContent3: 大三学生👨‍🎓
+  personalities:
+    author_name: 物流师
+    personality_type: ISTJ
+    photo_url: https://bu.dusays.com/2024/08/20/66c42777a7cbd.jpg
+    personality_img: https://npm.elemecdn.com/anzhiyu-blog@2.0.8/img/svg/ESFJ-A.svg
+    name_url: https://www.16personalities.com/ch/istj-%E4%BA%BA%E6%A0%BC
+  maxim:
+    maxim_tips: 座右铭
+    maxim_top: 天道酬勤，
+    maxim_bottom: 努力必有收获。
+  buff:
+    buff_tips: 特长
+    buff_top: 脑回路新奇的 酸菜鱼
+    buff_bottom: 二次元指数 MAX
+  like:
+    like_tips: 关注偏好
+    like_title: 数码科技
+    like_bg: https://bu.dusays.com/2022/12/06/638f5f05ce1f7.jpg
+    like_bottom: 手机、电脑软硬件
+  music:
+    music_tips: 音乐偏好
+    music_title: 邓紫棋、民谣、华语流行
+    music_bg: https://y.qq.com/music/photo_new/T001R300x300M000001fNHEf1SFEFN_7.jpg?max_age=2592000
+    music_link: /music
+  reward_list:
+    - name: 赵一帆
+      amount: 1.00
+      datatime: 2025-03-17
+    - name: king-mo
+      amount: 200.00
+      datatime: 2025-05-20
+    - name: 拾一
+      amount: 20
+      datatime: 2025-06-01
+    - name: Mirrorium_2026
+      amount: 2.27
+      datatime: 2025-06-03
+      
+      
+      

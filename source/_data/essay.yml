@@ -1,0 +1,43 @@
+- title: 即刻短文
+  subTitle: 咸鱼的日常生活。
+  tips: 随时随地，分享生活
+  buttonText: 关于我
+  buttonLink: /about/
+  limit: 30
+  home_essay: true
+  top_background: https://tu.llystar.cn/i/2025/04/23/guwzjr.webp
+  essay_list:
+    - content: 关于页的打赏仿了b站的充电功能，使用svg绘图➕一些动画参数移动，应该不会被b站警告吧😜，另外文章也支持了顶部随机b站同款春秋冬banner。
+      date: 2024/12/18
+    - content: React中不能直接修改state的一个重要原因是在性能优化时的prueComponment会进行浅层比较会认为是用一个对象且不能进入队列中批量更新
+      date: 2024/12/10
+    - content: 全局音乐的动画也处理好了, nice!
+      date: 2024/11/13
+    - content: 把页脚, 首页顶部全都魔改到本地了, 方便后续魔改, 音乐也改成胶囊的样式了, 其实还是想让胶囊可拖拽, 不可点击改变歌词位置的, 但是弄了半天都没弄好就放弃了
+      date: 2024/11/13
+    - content: 遇见彩虹🌈吃定彩虹
+      date: 2024/10/23 10:00:00
+      image:
+        - https://bu.dusays.com/2023/04/09/64329399e285d.webp
+        - https://bu.dusays.com/2023/04/09/64329399aa3bc.webp
+        - https://bu.dusays.com/2023/04/09/6432939996dd7.webp
+    - content: ThreeJs API真多丫
+      date: 2024/10/19
+    - content: 歌曲推荐
+      date: 2024/09/25
+      aplayer:
+        server: tencent
+        id: 00216QL046ryb5
+    - content: 做了一个噩梦, 梦到从楼顶坠下去了。😷
+      date: 2024/09/24
+    - content: 又到期末周了...
+      date: 2025/05/22
+    - content: Linux实训....
+      date: 2025/05/29
+    - content: 啊啊啊，评论系统什么时候死了。
+      date: 2025/05/30
+    - content: ✌系统又活了，可以评论了,但是我的数据都没了，浏览量和评论数都没了😭😭
+      date: 2025/05/31
+      
+      
+      
