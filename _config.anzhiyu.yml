@@ -13,7 +13,7 @@ menu:
     音乐馆: /music/ || anzhiyu-icon-music
     # 追番页: /bangumis/ || anzhiyu-icon-bilibili
     # 相册集: /album/ || anzhiyu-icon-images
-    # 小空调: /air-conditioner/ || anzhiyu-icon-fan
+    小空调: /air-conditioner/ || anzhiyu-icon-fan
 
   关于:
     关于本人: /about/ || anzhiyu-icon-paper-plane
@@ -68,6 +68,7 @@ copy:
 social:
   Github: https://github.com/yuan-power-plus || anzhiyu-icon-github
   BiliBili: https://space.bilibili.com/3494372395976759 || anzhiyu-icon-bilibili
+  RSS: /atom.xml || anzhiyu-icon-rss
 
 # 作者卡片 状态
 author_status:
@@ -535,7 +536,7 @@ footer:
       - link: https://beian.miit.gov.cn/
         text: 蜀ICP备2025123334号
     subTitle:
-      enable: false
+      enable: true
       # Typewriter Effect (打字效果)
       effect: true
       # Effect Speed Options (打字效果速度参数)
@@ -701,9 +702,9 @@ canvas_nest:
 # Typewriter Effect (打字效果)
 # https://github.com/disjukr/activate-power-mode
 activate_power_mode:
-  enable: false
-  colorful: true # open particle animation (冒光特效)
-  shake: false #  open shake (抖动特效)
+  enable: true
+  colorful: false # open particle animation (冒光特效)
+  shake: true #  open shake (抖动特效)
   mobile: false
 
 # Mouse click effects: fireworks (鼠标点击效果: 烟火特效)
@@ -788,7 +789,7 @@ preloader:
   # 1. fullpage-loading
   # 2. pace (progress bar)
   # else all
-  source: 3
+  source: 2
   # pace theme (see https://codebyzach.github.io/pace/)
   pace_css_url:
   avatar: /img/avatar.png # 自定加载动画义头像
@@ -812,7 +813,7 @@ aside:
     name_link: /about
 
   card_announcement:
-    enable: false
+    enable: true
     content: 欢迎来看我的博客鸭~
   card_weixin:
     enable: false
