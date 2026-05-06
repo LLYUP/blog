@@ -110,9 +110,7 @@ feed:
   type: atom
   path: atom.xml
   limit: 20
-  content: false
-  excerpt: true
-  strip_html: true
+  excerpt_only: true
 
 # Sitemap
 sitemap:
