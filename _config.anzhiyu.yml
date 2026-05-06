@@ -66,9 +66,9 @@ copy:
 # formal:
 #   name: link || icon
 social:
-  Github: https://github.com/yuan-power-plus || anzhiyu-icon-github
+  Github: https://github.com/LLYUP || anzhiyu-icon-github
   BiliBili: https://space.bilibili.com/3494372395976759 || anzhiyu-icon-bilibili
-  RSS: /atom.xml || anzhiyu-icon-rss
+  # RSS: /atom.xml || anzhiyu-icon-rss
 
 # 作者卡片 状态
 author_status:
