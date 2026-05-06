@@ -3,3 +3,4 @@ node_modules
 public/
 .claude
 CLAUDE.md
+db.json
