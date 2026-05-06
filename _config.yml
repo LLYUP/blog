@@ -103,7 +103,7 @@ theme: anzhiyu
 deploy:
   type: git
   repo: https://github.com/LLYUP/blog.git
-  branch: gh-pages
+  branch: main
 
 # Feed
 feed:
